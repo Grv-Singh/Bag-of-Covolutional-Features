@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Major_Code\\objectCategories-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "D:\\Major_Code\\objectCategories-0.001-2conv-basic.model"
