@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\BOVW_CNN_GWO_w_Dataset\\objectCategories-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "C:\\BOVW_CNN_GWO_w_Dataset\\objectCategories-0.001-2conv-basic.model"
